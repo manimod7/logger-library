@@ -1,0 +1,5 @@
+
+[2025-05-21 13:59:48,894] [LM-BGL-41512353] [c736e06b-66fb-4926-a8a9-afd330e68b03] [INFO] [App.Main] Logger started
+[2025-05-21 13:59:48,989] [LM-BGL-41512353] [02db8273-e6be-4626-99d0-4f93fdfa76bc] [WARN] [App.User] This is a warning
+[2025-05-21 13:59:48,989] [LM-BGL-41512353] [a3a2cea7-3da1-4d5e-a6b6-15fd60851e0c] [ERROR] [App.DB] Database error occurred
+[2025-05-21 13:59:48,989] [LM-BGL-41512353] [5ff8258b-a256-473b-b85e-94d0fbee9749] [FATAL] [App.Fatal] Critical failure
